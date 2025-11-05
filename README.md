@@ -10,7 +10,8 @@ For example:
 * Write a program that takes the integer max and outputs all teh prime numbers less than max.
 * The output shoudl be lined up horizontally in one line with a space between numbers with a new line at the end.
 
-Please use the following test cases with the homework:
+
+**Please use the following test cases with the homework:**
 ___
 <img src="img2.png" alt="BasicHW1" width="400">
 
@@ -25,6 +26,8 @@ ___
 *  Using a for loop, write a program that takes the value n and calculate and output sum of square from 1 to n
 *  Hint: add the variable sum to the square of i (represented as i*i)
 
+
+**Please use the following test cases with the homework:**
 ![TestCases](img7.png)
 
 ___
@@ -33,6 +36,10 @@ ___
 *  Use Leibniz formula for Pi (π) to calculate Pi. When input integer n it sums  up  to  the  nth  term  of this following series and multiply by 4 to output an approximation of Pi.
 
 ![TestCases](img8.png)
+
+**Please use the following test cases with the homework:**
+
+
 ![TestCases](img4.png)
 
  ### Hint:
@@ -49,6 +56,10 @@ ___
 *  Create a porgram that takes the value **n** and outputs two different number pair from 1 to an input n
 *  **Hint**: Use Nested Loop
 *  **Note**: By having the same number (1,1) or different order number pair (1,3) (3,1) will appear. So, be careful with the variable range in the loop.
+
+**Please use the following test cases with the homework:**
+
+
 <img src="img5.png" alt="AdvHW1" width="400">
 
 
