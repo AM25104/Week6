@@ -4,7 +4,7 @@ Control Flow III
 Please note that it is very important for your program to have the same input and output as shown in the test cases. Please keep in mind things such as spacing, capitalization, line breaks (\n), etc. The test cases provided for the exercises will consist of the input (red box) and the output (black box). All the information in the boxes are assumed to consist of no extra spaces (before and after the information).
 
 For example:
-
+![alt text](https://github.com/SITIntroToProgrammingFall2025/Week6/edit/main/img1.png "NoteForTestCase")
 
 
 ## Basic Homework I
