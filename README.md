@@ -1,6 +1,15 @@
 # Week6 
 Control Flow III
-## Note:
+## Note1:
+*  Homework Naming
+```
+ex : 6-1.c
+```
+**Testing:**
+Two test cases will be released for each homework. 
+Make sure that your output matches the test case answers completely. ( Same spacing, Same capitalization, Same line breaks (\n), etc. )
+
+## Note2:
 Please note that it is very important for your program to have the same input and output as shown in the test cases. Please keep in mind things such as spacing, capitalization, line breaks (\n), etc. The test cases provided for the exercises will consist of the input (red box) and the output (black box). All the information in the boxes are assumed to consist of no extra spaces (before and after the information).
 
 For example:
