@@ -6,7 +6,7 @@ Please note that it is very important for your program to have the same input an
 For example:
 ![NoteTestCase](img1.png)
 
-## Basic Homework I
+## Basic Homework I ( hw6-1.c )
 * Write a program that takes the integer max and outputs all teh prime numbers less than max.
 * The output shoudl be lined up horizontally in one line with a space between numbers with a new line at the end.
 
@@ -21,7 +21,7 @@ ___
 
 
 
-## Basic Homework 2 
+## Basic Homework 2 ( hw6-2.c )
 *  For an input integer n, the sum of integer from 1 to n is as:
 <img src="img6.png" alt="BasicHW1" width="400">
 
@@ -34,7 +34,7 @@ ___
 
 ___
 
-## Basic Homework 3 
+## Basic Homework 3 ( hw6-3.c )
 *  Use Leibniz formula for Pi (π) to calculate Pi. When input integer n it sums  up  to  the  nth  term  of this following series and multiply by 4 to output an approximation of Pi.
 
 ![TestCases](img8.png)
@@ -57,7 +57,7 @@ ___
 
 ![TestCases](img4.png)
 
-## Advanced Homework I
+## Advanced Homework I ( ahw6-1.c )
 *  Create a porgram that takes the value **n** and outputs two different number pair from 1 to an input n
 *  **Hint**: Use Nested Loop
 *  **Note**: By having the same number (1,1) or different order number pair (1,3) (3,1) will appear. So, be careful with the variable range in the loop.
