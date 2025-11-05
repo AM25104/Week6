@@ -39,10 +39,7 @@ ___
 
 ![TestCases](img8.png)
 
-**Please use the following test cases with the homework:**
 
-
-![TestCases](img4.png)
 
  ### Hint:
  *  Be careful not to do the operation by integer. For example, if i is int type 1/(2*i+1) will result in 0. In this case, you must change to 1.0/(2*i+1)
@@ -53,6 +50,12 @@ ___
  *   %f  outputs double up to 6 decimal places by default, but you can set it to as many as 15 decimal places using %.15f
  *  Decimal places: number of significant digits
  *  Let’s find out the true value of Pi and compare it with your calculation results.
+
+
+**Please use the following test cases with the homework:**
+
+
+![TestCases](img4.png)
 
 ## Advanced Homework I
 *  Create a porgram that takes the value **n** and outputs two different number pair from 1 to an input n
