@@ -11,12 +11,14 @@ For example:
 * The output shoudl be lined up horizontally in one line with a space between numbers with a new line at the end.
 
 
-**Please use the following test cases with the homework:**
-___
-<img src="img2.png" alt="BasicHW1" width="400">
-
 ### Hint: The organization of the program
 <img src="img3.png" alt="BasicHW1" width="400">
+
+**Please use the following test cases with the homework:**
+___
+<img src="img2.png" alt="BasicHW1" width="600">
+
+
 
 
 ## Basic Homework 2 
